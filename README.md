@@ -100,7 +100,7 @@ docremix/
 **Backend**
 -   FastAPI + Uvicorn
 -   `python-docx` (perfect formatting preservation)
--   Google Gemini API (`gemini-1.5-flash` or `pro`)
+-   Google Gemini API (`gemini-2.5-flash-lite` or `pro`)
 
 **Frontend**
 -   Next.js 14 (App Router)
@@ -133,4 +133,5 @@ MIT © 2025 – Feel free to use, modify, and ship.
 Now I just select → rewrite → download. Done.
 
 Enjoy remixing
+
 
